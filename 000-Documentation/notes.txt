@@ -1,0 +1,13 @@
+To run  - go run app.go
+To turn to module - go mod init <place>/<title>
+To build - go build
+
+To build a project first you need to turn app.go into a module. To do this
+
+go mod init <place>/<title>
+
+examples:
+
+go mod init google.com/my-app
+go mod init bbc.com/news-app
+go mod init nimiratech.com/expense-tracker

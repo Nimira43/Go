@@ -1,4 +1,0 @@
-To run  - go run app.go
-To turn to module - go mod init <place>/<title>
-To build - go build
-
